@@ -1,5 +1,5 @@
-const primary = 'rgb(５９, 235, ２５５)'
-const lightBg = 'rgba(255, 235, 59, .2)'
+const primary = 'rgb(255, 0, 0)'
+const lightBg = 'rgba(120, 120, 120, .5)'
 
 export {
   primary,
